@@ -41,3 +41,18 @@
 .border-color-mode {
   background-color: white;
 }
+
+.interested {
+    padding: 0 14px;
+    outline: 0;
+    cursor: pointer;
+    margin-right: 5px;
+    margin-left: auto;
+    height: 30px;
+    line-height: 24px;
+    text-decoration: none;
+    background-color: #feac32;
+    background-image: linear-gradient(#fecc4c,#ffac33);
+    border: 3px solid #feac32;
+    color: var(--theme-color);
+}
